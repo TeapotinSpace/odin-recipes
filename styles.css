@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(220, 223, 241);
+}
+
+img{ 
+    height: 400px;
+    width: 400px;
+}
+p,
+ul,
+ol{
+    width: 400px;
+}
+h1,
+h2,
+h3,
+.section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
